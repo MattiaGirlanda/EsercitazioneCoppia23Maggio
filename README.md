@@ -10,5 +10,5 @@ Caricamento dei file del progetto C++ con commit Aggiunta files c++ e h, con il 
 
 Caricamento dei file con il comando: git push
 
-
+Abbiamo riscontrato un problema nella push per il login ma poi siamo riusciti a risolverlo
 
