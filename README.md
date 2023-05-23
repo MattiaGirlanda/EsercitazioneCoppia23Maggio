@@ -6,9 +6,9 @@ Aggiunta file del progetto C++
 
 Aggiunta dei file allo stage con il commando git add . //che inserisce tutti i file di una cartella
 
-Caricamento dei file del progetto C++ con commit , git commit -m ""
+Caricamento dei file del progetto C++ con commit Aggiunta files c++ e h, con il comando: git commit -m ""
 
-Aggiunta files C++ e h , con il comando git push
+Caricamento dei file con il comando: git push
 
 
 
